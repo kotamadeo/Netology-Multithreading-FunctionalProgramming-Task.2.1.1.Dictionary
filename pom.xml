@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.gmail.at.kotamadeo</groupId>
-    <artifactId>Module_2-Function_programming-Task_2.1.1-Dictionary</artifactId>
+    <artifactId>Module_2-Functional_programming-Task_2.1.1-Dictionary</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
